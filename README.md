@@ -1,9 +1,5 @@
 
-This project is simply a reproduction of the Google homepage. 
+This project is simply a reproduction of the Google homepage to demonstrate the use of HTML and CSS. 
 
-This is to demonstrate use of HTML and CSS. 
-
-THis is from The Odin Project's currciculum: 
-
-(http://www.theodinproject.com/web-development-101/html-css)
+The exercise is from The Odin Project's currciculum: (http://www.theodinproject.com/web-development-101/html-css)
 
